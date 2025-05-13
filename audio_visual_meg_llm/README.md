@@ -19,7 +19,7 @@ audio_visual_meg_llm/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/audio_visual_meg_llm.git
+git clone https://github.com/aysha2016/audio_visual_meg_llm.git
 cd audio_visual_meg_llm
 ```
 
@@ -101,18 +101,4 @@ interpretation = llm_processor.generate_interpretation(
     meg_simulator.generate_description()
 )
 ```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- GPT-2 model from Hugging Face
-- PyTorch and torchaudio for audio processing
-- OpenCV for image processing
-- Matplotlib for visualization
+  
